@@ -9,7 +9,7 @@ class C12NCTest(CrossSectionTest):
 
     # iterable with tuples (eNu, eE, dSigma_dE(eNu, eE))
     test_dSigma_dE_values = (
-        (25, 15.11, 1.895519358671657e-18),
+        (2, 15.11, 1.895519358671657e-18),
         (25, 15.1109, 1.895519358671657e-18),
         (50, 15.11, 2.3590523576277865e-17),
         (75, 15.11, 6.950951642452967e-17),
